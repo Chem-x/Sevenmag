@@ -868,14 +868,14 @@ article img {
 }
 
 #slides .inner {
-    width: auto;  
+    width: 500%;  
     line-height: 0;
 }
  /* #slides .inner  якщо замінити значення width на 100% то не буде видно решти слайдів, тобто всі будуть на 1 слайді і не перейдуть на 2 слайд, так як в article задане значення float і блоки буду зміщатися по лівому краю*/
 
 
 #slides article {
-    width: 252px;
+    width: 4%;
     height: 352px;
     float: left;
     padding: 0px;
@@ -1088,7 +1088,7 @@ article img {
 	}
 				
 	#slides article {
-        width: 366px;
+        width: 10%;
 	}
 		
 	.block-post {
@@ -1146,7 +1146,7 @@ article img {
     }
 		
 	#slides article {
-    width: 313.6px;
+    width: 6.666%;
 	}
 	
 	
@@ -1169,7 +1169,7 @@ article img {
     }
 		
 	#slides article {
-    width: 295.2px;
+    width: 5%;
 	}
 	
 	.small-block {
